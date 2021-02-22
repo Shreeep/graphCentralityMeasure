@@ -10,7 +10,7 @@ Closeness centrality: https://en.wikipedia.org/wiki/Centrality#Closeness_central
 Betweeness centrality: https://en.wikipedia.org/wiki/Centrality#Betweenness_centrality
 
 Further expansion on this program would be to use these centrality measures in order to build heirarchical clusters. 
-To do this we can use Ward's method as a Lance William Algorithms as described:
+To do this we can use the Lance William Algorithm equations as described:
 
 https://en.wikipedia.org/wiki/Ward%27s_method#Lance%E2%80%93Williams_algorithms provides the
 
