@@ -4,7 +4,7 @@ Testing files provided by UNSW.
 
 Implementation of Dijkstra's algorithm is in dijkstra.c, which calculates the shortest path between any two nodes in the graph ADT.
 
-CentralityMeasures.c contains implementations of both Betweeness Centrality and Closeness centrality.
+CentralityMeasures.c contains implementations of algorithms for calculating both Betweeness Centrality and Closeness centrality.
 
 Closeness centrality: https://en.wikipedia.org/wiki/Centrality#Closeness_centrality
 Betweeness centrality: https://en.wikipedia.org/wiki/Centrality#Betweenness_centrality
